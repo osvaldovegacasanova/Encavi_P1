@@ -6,8 +6,8 @@ Este repositorio contiene un script en R diseñado para realizar un **análisis 
 
 ## 📁 Archivos
 
-- `Analisis Factorial Corregido.R`: script completo y documentado que realiza el flujo de análisis.
-- `encavi.csv`: base de datos con variables relacionadas a salud y calidad de vida (no incluida en este repo por privacidad).
+- `AF_encavi.R`: script completo y documentado que realiza el flujo de análisis.
+- `encavi.csv`: base de datos con variables relacionadas a salud y calidad de vida.
 
 ---
 
@@ -50,4 +50,4 @@ install.packages(c("caret", "randomForest", "psych", "ROSE", "ggplot2", "corrplo
 
 ## 📤 Autor
 
-Proyecto desarrollado por [Tu Nombre] como parte de un análisis exploratorio con enfoque en ciencia de datos aplicada a salud pública.
+Ejercicio desarrollado por Osvaldo Vega Casanova como parte de un análisis exploratorio con enfoque en ciencia de datos aplicada a salud pública.
